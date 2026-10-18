@@ -1,0 +1,5 @@
+墨迹清单（Qt 版）— 绿色版
+
+双击 todo-qt.exe 运行。
+
+数据：%APPDATA%\todo-qt\todos.json（或 Roaming\swqztech\todo-qt）
