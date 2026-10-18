@@ -5,5 +5,7 @@
 ```bash
 cmake -B build -DCMAKE_PREFIX_PATH="<Qt6 msvc_64>"
 cmake --build build --config Release
-bash packaging/build.sh
+bash packaging/build.sh   # 绿色 zip + NSIS 安装包
 ```
+
+安装包：`dist/墨迹清单-qt-<版本>-win64-setup.exe`。
